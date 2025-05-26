@@ -85,7 +85,6 @@ VALUES
 (1, '2025-1', 'relatorios/relatorio_professor_1_2025-1.pdf', '2025-05-05'),
 (2, '2025-1', 'relatorios/relatorio_professor_2_2025-1.pdf', '2025-05-05');
 
-SHOW TABLES; 
 
 
 SELECT * FROM alunos;
